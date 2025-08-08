@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Intel+One+Mono:ital,wght@0,300..700;1,300..700&display=swap');
+
+@import "tailwindcss";
+
+* {
+   font-family: "Intel One Mono", monospace;
+}
+
+:root {
+  --color-primary: #1e293b;        
+  --color-primary-dull: #64748b;  
+  --color--light: #f1f5f9;         
+  --color-borderColor: #cbd5e1;   
+}
